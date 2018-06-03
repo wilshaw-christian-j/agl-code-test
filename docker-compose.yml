@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  agl-people-service-consumer:
+    image: aglpeopleserviceconsumer
+    build:
+      context: .
+      dockerfile: AGL-People-Service-Consumer/Dockerfile

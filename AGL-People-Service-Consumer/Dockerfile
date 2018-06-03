@@ -1,0 +1,19 @@
+FROM microsoft/dotnet:2.0-runtime AS base
+WORKDIR /app
+
+FROM microsoft/dotnet:2.0-sdk AS build
+WORKDIR /src
+COPY AGL-People-Service-Consumer.sln ./
+COPY AGL-People-Service-Consumer/AGL-People-Service-Consumer.csproj AGL-People-Service-Consumer/
+RUN dotnet restore -nowarn:msb3202,nu1503
+COPY . .
+WORKDIR /src/AGL-People-Service-Consumer
+RUN dotnet build -c Release -o /app
+
+FROM build AS publish
+RUN dotnet publish -c Release -o /app
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "AGL-People-Service-Consumer.dll"]

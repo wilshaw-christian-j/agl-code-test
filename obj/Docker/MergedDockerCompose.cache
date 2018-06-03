@@ -1,0 +1,7 @@
+services:
+  agl-people-service-consumer:
+    build:
+      context: C:\DEV\AGL-Code-Test
+      dockerfile: AGL-People-Service-Consumer/Dockerfile
+    image: aglpeopleserviceconsumer
+version: '3.0'

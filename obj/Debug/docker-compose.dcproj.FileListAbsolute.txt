@@ -1,0 +1,2 @@
+C:\DEV\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\DEV\AGL-Code-Test\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

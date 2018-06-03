@@ -1,0 +1,17 @@
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.deps.json
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.runtimeconfig.json
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.runtimeconfig.dev.json
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.pdb
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.csproj.CoreCompileInputs.cache
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.AssemblyInfoInputs.cache
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.AssemblyInfo.cs
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.pdb
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.dll
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\bin\Debug\netcoreapp2.0\AGL-People-Service-Consumer.pdb
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.csprojResolveAssemblyReference.cache
+C:\DEV\AGL-Code-Test\AGL-People-Service-Consumer.Test\obj\Debug\netcoreapp2.0\AGL-People-Service-Consumer.Test.csproj.CopyComplete
